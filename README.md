@@ -1,3 +1,3 @@
 # album-ept-2023
 ###Album de fotos de todos del nivel Primaria, Secundaria y IB del área de Educación para el Trabajo.
-![](https://drive.google.com/file/d/1TkarPNvKd-mSQX79R7wk9hh8sRn_O9x-/view?usp=sharing){width='100px'}
+![](https://github.com/mdiaz74/album-ept-2023/blob/master/img/album_muestra.jpg?raw=true){width='100px'}
